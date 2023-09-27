@@ -137,7 +137,7 @@ Certifications
 
 * **Kubernetes:** CKA, CKAD, CKS
 * **Prometheus:** PCA
-* **GCP:** Professional Architect, Professional Security, Professional Network, Professional Developer
+* **GCP:** Professional Architect, Professional Security, Professional Network, Professional Developer, Engineer
 * **Azure:** Fundamentals
 * **AWS:** Cloud Practicioner
 * **Vault:** Associate

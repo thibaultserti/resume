@@ -22,7 +22,7 @@ Education
 
     *Specialized in Machine Learning, Decision, Data Analysis*
 
-2007-2010
+2016-2018
 :   **Under graduate class**; Lycée Hoche, CPGE (Versailles)
 
     *MPSI-MP\**

@@ -101,6 +101,7 @@ wget https://github.com/jgm/pandoc/releases/download/2.2.1/pandoc-2.2.1-1-amd64.
 sudo dpkg -i pandoc-2.2.1-1-amd64.deb
 ```
 
+
 #### Context executable cannot be found
 Some users have reported problems where their system does not properly find the ConTeXt
 executable, leading to errors like `Cannot find context.lua` or similar. It has been found

@@ -118,7 +118,7 @@ Automation
 : Terraform, Ansible, Vagrant, Puppet, Packer
 
 Security
-: Vault, Falco, Kyverno, Trivy,
+: Vault, Falco, Kyverno, Trivy
 
 Network
 : Nginx, Traefik, Cloudflare

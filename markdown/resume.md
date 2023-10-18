@@ -4,7 +4,7 @@ Thibault Ayanides
 ----
 
 > As a Cloud Architect, I am in charge of designing, building and deploying different kind of infrastructure.
-> Although I am specialized on Public Cloud Google Cloud Platform, I am also proficient with other public cloud providers and with on-premise infrastructure.
+> Although I am specialized on public cloud Google Cloud Platform and on Kubernetes, I am also proficient with other public cloud providers and with on-premise infrastructure.
 
 
 <thibault.ayanides@gmail.com> • +33 (6)95 803 273 • 24 years old • Lille
@@ -30,9 +30,34 @@ Education
 Experience
 ----------
 
-**Cloud Architect at Adeo, 2022-present, 1 year**
+**Cloud Architect at Adeo, october 2023 - now**
 
-Mission as IT consultant.
+Mission as IT consultant in Cloud Containers team.
+
+* Administration of the Adeo CaaS offer
+* MCO and run for more than 70 clusters (HPA, Gatekeeper OPA, traefikee, trivy, sealedsecret, velero, traefikee, datadog, vault, cert-manager, datadog, argoCD, argoWorkflow, argoEvents, custom kopf operators)
+* Build & run on a multi cloud environment (GCP & Azure)
+* Maintenance of our python APIs (FastAPI)
+
+**Teacher at EFFICOM Lille, september 2023 - now**
+
+* Python developement
+* Linux system
+* IaC and Cloud
+* Monitoring
+* Kubernetes
+
+**Technical and Practice Lead GCP at Skale 5, august 2023 - now**
+
+* Technical recruitment
+* Ensuring the security Best Practices
+* Managing interns and apprentices
+* Industrialization of cloud patterns to ease the onboardings of new clients
+* Trainer on GCP
+
+**Cloud Architect at Adeo, october 2022 - september 2023, 1 year**
+
+Mission as IT consultant in Cloud Services team.
 
 * Maintenance and evolution of internal APIs (FastAPI) for infrastructure automation on GCP, Azure and Yandex
 * SDK development in Python to consume internal APIs
@@ -42,7 +67,7 @@ Mission as IT consultant.
 * User support for questions related to GCP and Azure
 * Design of data ingestion pipeline related to Cloud Assets to PostgreSQL
 
-**Cloud Architect at Auchan, 2022, 1 month**
+**Cloud Architect at Auchan, september 2022, 1 month**
 
 Mission as IT consultant.
 
@@ -58,7 +83,7 @@ Mission as IT consultant.
 * Deployment and configuration of monitoring
 * Configuration of the CICD (Gitlab CI and ArgoCD)
 
-**SRE at Microdon, 2021-2022, 6 months**
+**SRE at Microdon, october 2021- march 2022, 6 months**
 
 Mission as IT consultant.
 
@@ -66,25 +91,17 @@ Mission as IT consultant.
 * Maintenance of CloudSQL
 * Improvement over global security
 
-**SRE at Campings, 2021, 3 month**
+**SRE at Campings, december 2021 - february 2022, 3 months**
 
 Mission as IT consultant.
 
 * Run of the GCP platform, mainly on the monitoring solution (Prometheus stack)
 
-**Technical and Practice Lead GCP at Skale 5, 2022-, 1 year**
-
-* Technical recruitment
-* Ensuring the security Best Practices
-* Managing interns and apprentices
-* Industrialization of cloud patterns to ease the onboardings of new clients
-* Trainer on GCP
-
-**Cloud Architect at Skale 5, 2021-2022, 1 year**
+**Cloud Architect at Skale 5, september 2021 - july 2023, 2 years**
 
 * Industrialization of cloud patterns to ease the onboardings of new clients
 
-**DevOps Engineer at OVHCloud, 2020-2021, 1 year**
+**DevOps Engineer at OVHCloud, september 2020 - september 2021, 1 year**
 
 IaaS Team.
 

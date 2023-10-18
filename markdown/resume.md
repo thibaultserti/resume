@@ -14,19 +14,6 @@ French (native) • English (professional)
 
 ----
 
-Education
----------
-
-2018-2021
-:   **General Engineering school**; Centrale Lille (Lille)
-
-    *Specialized in Machine Learning, Decision, Data Analysis*
-
-2016-2018
-:   **Under graduate class**; Lycée Hoche, CPGE (Versailles)
-
-    *MPSI-MP\**
-
 Experience
 ----------
 
@@ -118,6 +105,20 @@ IT Association that provides Internet to the student housing.
 * Deployment of wifi terminals in one of the buildings
 * Distributed password management system (Vault by Hashicorp)
 * Webserver (Docker)
+
+Education
+---------
+
+2018-2021
+:   **General Engineering school**; Centrale Lille (Lille)
+
+    *Specialized in Machine Learning, Decision, Data Analysis*
+
+2016-2018
+:   **Under graduate class**; Lycée Hoche, CPGE (Versailles)
+
+    *MPSI-MP\**
+
 
 Skills
 --------------------

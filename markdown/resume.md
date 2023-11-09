@@ -22,7 +22,7 @@ Experience
 Mission as IT consultant in Cloud Containers team.
 
 * Administration of the Adeo CaaS offer
-* MCO and run for more than 70 clusters (HPA, Gatekeeper OPA, traefikee, trivy, sealedsecret, velero, datadog, vault, cert-manager, knative, datadog, argoCD, argoWorkflow, argoEvents, custom kopf operators)
+* MCO and run for more than 70 clusters (HPA, Gatekeeper OPA, traefikee, trivy, sealedsecret, velero, datadog, vault, cert-manager, knative, argoCD, argoWorkflow, argoEvents, custom kopf operators)
 * Build & run on a multi cloud environment (GCP & Azure)
 * Maintenance of our python APIs (FastAPI)
 

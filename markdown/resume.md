@@ -22,7 +22,7 @@ Experience
 Mission as IT consultant in Cloud Containers team.
 
 * Administration of the Adeo CaaS offer
-* MCO and run for more than 70 clusters (HPA, Gatekeeper OPA, traefikee, trivy, sealedsecret, velero, datadog, vault, cert-manager, knative, argoCD, argoWorkflow, argoEvents, custom kopf operators)
+* MCO and run for more than 70 clusters (HPA, Gatekeeper OPA, traefikee, trivy, sealedsecret, velero, datadog, vault, cert-manager, knative, argoCD, argoWorkflow, custom kopf operators)
 * Build & run on a multi cloud environment (GCP & Azure)
 * Maintenance of our python APIs (FastAPI)
 
@@ -93,7 +93,7 @@ Mission as IT consultant.
 IaaS Team.
 
 * Administration and improvement of the automation of the internal Kubernetes cluster (VPA, mutating webhooks, CNI operator, …)
-* Improved server hardening, observability and future proofing
+* Improved server hardening, observability through an open source tool (https://github.com/ovh/debian-cis)
 * Automation of security checks carried out on the rights of employees
 
 **Rézoléo, 2019-2022, 4 years**
@@ -145,7 +145,7 @@ Dev
 : Git, Github, Gitlab
 
 Languages
-: Python, Golang. Basic knowledge of Java, Javascript, C
+: Bash, Python, Golang. Basic knowledge of Java, Javascript, C
 
 Cloud
 : GCP, Azure, OVHcloud

@@ -34,7 +34,7 @@ Mission as IT consultant in Cloud Containers team.
 * Monitoring
 * Kubernetes
 
-**Technical and Practice Lead GCP at Skale 5, august 2023 - now**
+**Technical and Practice Lead GCP at Skale 5, august 2023 - april 2024**
 
 * Technical recruitment
 * Ensuring the security Best Practices

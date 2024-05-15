@@ -8,6 +8,7 @@ Thibault Ayanides
 
 
 <thibault.ayanides@gmail.com> • +33 (6)95 803 273 • 24 years old • Lille
+
 French (native) • English (professional)
 
 [Website](https://thibaultserti.github.io) • [Github](https://github.com/thibaultserti) • [Linkedin](https://linkedin.com/in/thibaultayanides) • [Rootme](https://www.root-me.org/Thibault-Serti)
@@ -136,7 +137,7 @@ Automation
 : Terraform, Ansible, Vagrant, Puppet, Packer
 
 Security
-: Vault, Falco, Kyverno, Trivy
+: Vault, Falco, Kyverno, Gatekeeper, Trivy
 
 Network
 : Nginx, Traefik, Cloudflare

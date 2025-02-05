@@ -3,11 +3,11 @@ Thibault Ayanides
 
 ----
 
-> As a Cloud Architect, I am in charge of designing, building and deploying different kind of infrastructure.
+> As a Platform Engineer, I am in charge of maintaining, building and evolving the CaaS offer in Adeo.
 > Although I am specialized on public cloud Google Cloud Platform and on Kubernetes, I am also proficient with other public cloud providers and with on-premise infrastructure.
 
 
-<thibault.ayanides@gmail.com> • +33 (6)95 803 273 • 24 years old • Lille
+<thibault.ayanides@gmail.com> • +33 (6)95 803 273 • 25 years old • Lille
 
 French (native) • English (professional)
 
@@ -18,7 +18,20 @@ French (native) • English (professional)
 Experience
 ----------
 
-**Cloud Architect at Adeo, october 2023 - now**
+**Platform Engineer at Adeo, may 2024 - now**
+
+Mission as IT consultant in Cloud Containers team (Freelance).
+
+* Administration of the Adeo CaaS offer
+* MCO and run for more than 90 Kubernetes clusters (HPA, Gatekeeper OPA, traefikee, trivy, sealedsecret, velero, datadog, vault, cert-manager, knative, argoCD, argoWorkflow, custom kopf operators) on GKE and AKS
+* Build & run on a multi cloud environment (GCP & Azure) on various subjects (CI/CD, monitoring, network, security, ...)
+* Multiple python developments (FastAPI, Pydantic, typer, ...)
+
+**Trainer at Ambient IT, june 2024 - now**
+
+Trainer for IT professionals to prepare for Kubernetes certification (CKA, CKAD, CKS) or to learn new technologies (Docker, Ansible, Devops, ...).
+
+**Platform Engineer at Adeo, october 2023 - april 2024**
 
 Mission as IT consultant in Cloud Containers team.
 
@@ -149,7 +162,7 @@ Languages
 : Bash, Python, Golang. Basic knowledge of Java, Javascript, C
 
 Cloud
-: GCP, Azure, OVHcloud
+: GCP, Azure, Scaleway, OVHcloud
 
 Certifications
 ----------------------------------------
